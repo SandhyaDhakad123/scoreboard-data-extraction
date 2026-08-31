@@ -1,0 +1,327 @@
+{
+    "video": "bowling_scoreboard.mp4",
+    "frame": 1680,
+    "timestamp_seconds": 56.0,
+    "detections": [
+        {
+            "text": "VISHAL",
+            "confidence": 0.999,
+            "row": "HEADER",
+            "frame": null,
+            "center": [
+                744,
+                72
+            ]
+        },
+        {
+            "text": "6",
+            "confidence": 0.942,
+            "row": "HEADER",
+            "frame": null,
+            "center": [
+                224,
+                127
+            ]
+        },
+        {
+            "text": "9",
+            "confidence": 0.788,
+            "row": "HEADER",
+            "frame": null,
+            "center": [
+                2812,
+                187
+            ]
+        },
+        {
+            "text": "1 | 2",
+            "confidence": 0.837,
+            "row": "HEADER",
+            "frame": null,
+            "center": [
+                754,
+                190
+            ]
+        },
+        {
+            "text": "10",
+            "confidence": 0.999,
+            "row": "HEADER",
+            "frame": null,
+            "center": [
+                3093,
+                190
+            ]
+        },
+        {
+            "text": "0",
+            "confidence": 1.0,
+            "row": "J",
+            "frame": 10,
+            "center": [
+                3546,
+                310
+            ]
+        },
+        {
+            "text": "5",
+            "confidence": 1.0,
+            "row": "J",
+            "frame": 2,
+            "center": [
+                814,
+                311
+            ]
+        },
+        {
+            "text": "X",
+            "confidence": 0.991,
+            "row": "J",
+            "frame": 1,
+            "center": [
+                560,
+                313
+            ]
+        },
+        {
+            "text": "74-X",
+            "confidence": 0.663,
+            "row": "J",
+            "frame": 4,
+            "center": [
+                1437,
+                313
+            ]
+        },
+        {
+            "text": "41",
+            "confidence": 1.0,
+            "row": "J",
+            "frame": 10,
+            "center": [
+                3541,
+                467
+            ]
+        },
+        {
+            "text": "15",
+            "confidence": 1.0,
+            "row": "J",
+            "frame": 1,
+            "center": [
+                595,
+                468
+            ]
+        },
+        {
+            "text": "20",
+            "confidence": 0.825,
+            "row": "J",
+            "frame": 2,
+            "center": [
+                879,
+                468
+            ]
+        },
+        {
+            "text": "0",
+            "confidence": 1.0,
+            "row": "V",
+            "frame": 10,
+            "center": [
+                3544,
+                639
+            ]
+        },
+        {
+            "text": "8",
+            "confidence": 1.0,
+            "row": "V",
+            "frame": 1,
+            "center": [
+                600,
+                817
+            ]
+        },
+        {
+            "text": "37",
+            "confidence": 0.996,
+            "row": "V",
+            "frame": 10,
+            "center": [
+                3540,
+                820
+            ]
+        },
+        {
+            "text": "28",
+            "confidence": 1.0,
+            "row": "V",
+            "frame": 4,
+            "center": [
+                1437,
+                822
+            ]
+        },
+        {
+            "text": "9",
+            "confidence": 1.0,
+            "row": "P",
+            "frame": 3,
+            "center": [
+                1088,
+                1001
+            ]
+        },
+        {
+            "text": "0",
+            "confidence": 1.0,
+            "row": "P",
+            "frame": 10,
+            "center": [
+                3544,
+                1001
+            ]
+        },
+        {
+            "text": "(",
+            "confidence": 0.647,
+            "row": "P",
+            "frame": 1,
+            "center": [
+                600,
+                1006
+            ]
+        },
+        {
+            "text": "P",
+            "confidence": 0.949,
+            "row": "P",
+            "frame": 1,
+            "center": [
+                139,
+                1015
+            ]
+        },
+        {
+            "text": "39",
+            "confidence": 0.963,
+            "row": "P",
+            "frame": 2,
+            "center": [
+                875,
+                1156
+            ]
+        },
+        {
+            "text": "48",
+            "confidence": 1.0,
+            "row": "P",
+            "frame": 3,
+            "center": [
+                1154,
+                1156
+            ]
+        },
+        {
+            "text": "54",
+            "confidence": 1.0,
+            "row": "P",
+            "frame": 10,
+            "center": [
+                3544,
+                1159
+            ]
+        },
+        {
+            "text": "54",
+            "confidence": 1.0,
+            "row": "P",
+            "frame": 4,
+            "center": [
+                1428,
+                1161
+            ]
+        },
+        {
+            "text": "0",
+            "confidence": 1.0,
+            "row": "T",
+            "frame": 10,
+            "center": [
+                3545,
+                1317
+            ]
+        },
+        {
+            "text": "6 11 /",
+            "confidence": 0.668,
+            "row": "T",
+            "frame": 1,
+            "center": [
+                719,
+                1320
+            ]
+        },
+        {
+            "text": "8 -34",
+            "confidence": 0.54,
+            "row": "T",
+            "frame": 4,
+            "center": [
+                1287,
+                1320
+            ]
+        },
+        {
+            "text": "33",
+            "confidence": 0.937,
+            "row": "T",
+            "frame": 3,
+            "center": [
+                1154,
+                1473
+            ]
+        },
+        {
+            "text": "40",
+            "confidence": 1.0,
+            "row": "T",
+            "frame": 10,
+            "center": [
+                3550,
+                1473
+            ]
+        },
+        {
+            "text": "25",
+            "confidence": 1.0,
+            "row": "T",
+            "frame": 2,
+            "center": [
+                873,
+                1474
+            ]
+        },
+        {
+            "text": "7",
+            "confidence": 0.587,
+            "row": "T",
+            "frame": 1,
+            "center": [
+                596,
+                1476
+            ]
+        },
+        {
+            "text": "40",
+            "confidence": 0.998,
+            "row": "T",
+            "frame": 4,
+            "center": [
+                1435,
+                1476
+            ]
+        }
+    ]
+}
