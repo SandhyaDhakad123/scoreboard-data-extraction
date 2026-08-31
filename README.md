@@ -6,9 +6,9 @@ A Computer Vision project that automatically extracts scoreboard information fro
 
 ## 📌 Overview
 
-This project processes a video containing a scoreboard and extracts the relevant scoreboard information.
+This project processes a video containing a scoreboard and extracts relevant scoreboard information.
 
-The system identifies the scoreboard from the video, processes the image, maps the required cells, and extracts the available score data into a structured format.
+The system identifies the scoreboard, processes the image, maps the required cells, and extracts the available score data into a structured format.
 
 ### Extracted Information
 
@@ -21,10 +21,10 @@ The system identifies the scoreboard from the video, processes the image, maps t
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **OpenCV**
-- **EasyOCR**
-- **NumPy**
+- Python
+- OpenCV
+- EasyOCR
+- NumPy
 
 ---
 
@@ -32,35 +32,53 @@ The system identifies the scoreboard from the video, processes the image, maps t
 
 The project uses the following input video:
 
-```text
-input.mp4
+`input.mp4`
 
-Note: The input video is not included in this repository due to its large file size.
+> **Note:** The input video is not included in this repository due to its large file size.
 
-⚙️ Installation
+---
+
+## ⚙️ Installation
 
 Install the required Python libraries:
 
+```bash
 pip install opencv-python numpy easyocr
+```
 
-🚀 How to Run
+---
 
-1️⃣ Clone the Repository
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
 git clone <your-repository-url>
+```
 
-2️⃣ Open the Project Folder
+### 2. Open the Project Folder
+
+```bash
 cd scoreboard-data-extraction
+```
 
-3️⃣ Install Dependencies
+### 3. Install Dependencies
+
+```bash
 pip install opencv-python numpy easyocr
+```
 
-4️⃣ Run the Project
+### 4. Run the Project
+
+```bash
 python main.py
+```
 
-🔄 Project Workflow
+---
 
-The system follows these steps:
+## 🔄 Project Workflow
 
+```text
 Input Video
      ↓
 Frame Extraction
@@ -76,20 +94,24 @@ Image Processing
 OCR Data Extraction
      ↓
 Structured Scoreboard Output
+```
 
-📤 Output
+---
 
-After processing the video, the project generates the following files:
+## 📤 Output Files
 
-File	Description
-final_scoreboard.json	Extracted scoreboard data in JSON format
-final_scoreboard.jpg	Final detected scoreboard image
-cell_mapping.jpg	Visualization of mapped scoreboard cells
+The project generates the following files:
 
-📊 Output Format
+| File | Description |
+|------|-------------|
+| `final_scoreboard.json` | Extracted scoreboard data in JSON format |
+| `final_scoreboard.jpg` | Final detected scoreboard image |
 
-The extracted data is displayed in the terminal in the following format:
+---
 
+## 📊 Output Format
+
+```text
 ============================================================
 FINAL SCOREBOARD DATA
 ============================================================
@@ -102,28 +124,26 @@ TTL   : 41
 ============================================================
 PROCESSING COMPLETE
 ============================================================
+```
 
-The extracted scoreboard data is also saved in JSON format.
+---
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 scoreboard-data-extraction/
 │
 ├── main.py
 ├── find_coordinates.py
-├── input.mp4
-│
+├── mapped_scoreboard.json
+├── extracted_scoreboard.json
 ├── final_scoreboard.json
 ├── final_scoreboard.jpg
-├── cell_mapping.jpg
-│
 └── README.md
+```
 
-👩‍💻 Author
-Sandhya Dhakad
+---
 
+## 👩‍💻 Author
 
-
-
-
-
-
+**Sandhya Dhakad**
