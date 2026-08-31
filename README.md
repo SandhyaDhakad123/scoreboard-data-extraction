@@ -35,6 +35,7 @@ The project uses the following input video:
 ```text
 input.mp4
 
+Note: The input video is not included in this repository due to its large file size.
 
 ⚙️ Installation
 
